@@ -4,8 +4,6 @@ This is a readme file. On the repository page of GitHub, it is rendered as the m
 
 It supports various formatting options, such as **bold**, *italic*, and `code`. You can also include links, images, and tables. For more information, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-You can specify different headings using `#`. For example, the first line of this file is `# GitHub-tutorial`, which is rendered as the title of this page. You can also use `##` for a subheading, `###` for a sub-subheading, and so on.
-
 ## Subheading 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ### Sub-subheading 1
@@ -20,4 +18,12 @@ It is also possible to include code blocks, which will be syntax-highlighted. Fo
 ```python
 def hello():
     print("Hello, world!")
+```
+
+The following is written in R.
+
+```r
+hello <- function() {
+    print("Hello, world!")
+}
 ```
